@@ -5,7 +5,7 @@
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
  -->
-- I’m currently exploring around **Full Stack Development**
+- I’m currently exploring around Full Stack Development
 
 - I’m currently learning **Node.js**
 
