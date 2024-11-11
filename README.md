@@ -49,4 +49,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=creepahh&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=creepahh&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)
+![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh-raj-pant&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)
