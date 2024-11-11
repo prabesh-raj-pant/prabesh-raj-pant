@@ -1,7 +1,5 @@
-<!-- <p align="left"> <img src="kripa-new.jpg" alt="creepahh" /> </p> -->
-
 <h1 align="center">Hey, I am Prabesh!</h1>
-<!-- <h3 align="center">A learner</h3> -->
+<!-- <h3 align="center">A tech enthusiast</h3> -->
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
  -->
