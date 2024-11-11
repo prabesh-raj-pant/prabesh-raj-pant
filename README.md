@@ -25,6 +25,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   </a>
@@ -40,9 +43,7 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="40" height="40"/>
-</a>
+  
 
 </p>
 
