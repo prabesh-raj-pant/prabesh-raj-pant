@@ -74,8 +74,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p> -->
-
-### 📊 GitHub Stats:
+## 📊 GitHub Stats: 
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=prabesh-raj-pant&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
@@ -87,6 +86,4 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabesh-raj-pant&title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="prabesh-raj-pant" /></a> </p> -->
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
