@@ -79,9 +79,10 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=prabesh-raj-pant&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabesh-raj-pant&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)  -->
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prabesh-raj-pant&theme=radical" alt="GitHub Streak" /></a></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabesh-raj-pant&title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" alt="prabesh-raj-pant" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabesh-raj-pant&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true)" alt="prabesh-raj-pant" /></p>
+
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabesh-raj-pant&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true" alt="prabesh-raj-pant" /></a> </p>
