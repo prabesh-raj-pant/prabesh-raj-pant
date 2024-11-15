@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **prabeshrajpant@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐Connect with me:</h3>
 <div id="badges" >
   <a href="https://www.linkedin.com/in/prabesh-raj-pant-450931232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,7 +31,7 @@
 
 <p>&nbsp;</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> 
