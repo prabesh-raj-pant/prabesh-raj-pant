@@ -86,4 +86,4 @@
 
  
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabesh-raj-pant&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true" alt="prabesh-raj-pant" /></a> </p>
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/prabesh-raj-pant/prabesh-raj-pant/blob/output/github-snake-dark.svg)
