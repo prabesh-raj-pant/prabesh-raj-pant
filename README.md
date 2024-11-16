@@ -3,15 +3,21 @@
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&amp;lines=Stumbling+And+Learning+About+Web" alt="Intro" >
  -->
-<h1 align="center">Hi 👋, I'm Prabesh Raj Pant</h1>
-<h3 align="center">I’m currently exploring around Full Stack Development</h3>
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=prabesh-raj-pant&label=Profile%20views&color=0e75b6&style=flat" alt="prabesh-raj-pant" /> </p>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prabesh+Raj+Pant.;" />
+</h1>
+<h3 align="center">I’m currently exploring around Full Stack Development.</h3>
 
-- 🌱 I’m currently learning **node.**
+<div align="center">
+    &#9673; 🌱 I’m currently learning <b>Nodejs</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    &#9673; 📫 Mail: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=prabeshrajpant@gmail.com">prabeshrajpant@gmail.com</a> 
 
-- 📫 How to reach me **prabeshrajpant@gmail.com**
+</div>
 
-<h3 align="left">🌐Connect with me:</h3>
-<div id="badges" >
+
+<h3 align="center">🌐Connect with me:</h3>
+<div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/prabesh-raj-pant-450931232/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,8 +37,8 @@
 
 <p>&nbsp;</p>
 
-<h3 align="left">🛠️Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">🛠️Languages-Tools-Frameworks:</h3>
+<p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="60" height="60"/> 
   </a>
@@ -89,7 +95,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
 </p> -->
-## 📊 GitHub Stats: 
+<h1 align="center">📊 GitHub Stats:  </h1>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=prabesh-raj-pant&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
@@ -101,6 +107,6 @@
 
  
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabesh-raj-pant&show_icons=true&theme=radical&hide_border=true&border_radius=5&hide=stars&count_private=true&card_width=500px&include_all_commits=true" alt="prabesh-raj-pant" /></a> </p>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabesh-raj-pant&label=Profile%20views&color=0e75b6&style=flat" alt="prabesh-raj-pant" /> </p>
+
 
   ![snake gif](https://github.com/prabesh-raj-pant/prabesh-raj-pant/blob/output/github-snake-dark.svg)
