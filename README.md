@@ -5,10 +5,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prabesh+Raj+Pant.;" />
 </h1>
 
-<h3 align="center">I’m currently exploring around Full Stack Development.</h3>
+<h3 align="center">I’m currently exploring around Natural Language Processing.</h3>
 
 <div align="center">
-    &#9673; 🌱 I’m currently learning <b>Nodejs</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    &#9673; 🌱 I’m currently learning <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     &#9673; 📫 Mail: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=prabeshrajpant@gmail.com">prabeshrajpant@gmail.com</a> 
 </div>
 
