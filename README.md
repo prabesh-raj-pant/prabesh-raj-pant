@@ -83,4 +83,4 @@
   </a> 
  </p>
 
-![snake gif](https://github.com/prabesh-raj-pant/prabesh-raj-pant/blob/output/github-snake-dark.svg)
+<!--  ![snake gif](https://github.com/prabesh-raj-pant/prabesh-raj-pant/blob/output/github-snake-dark.svg)-->
