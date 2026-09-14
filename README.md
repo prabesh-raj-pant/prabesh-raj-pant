@@ -8,7 +8,6 @@
 <h3 align="center">I’m currently exploring around Natural Language Processing.</h3>
 
 <div align="center">
-    &#9673; 🌱 I’m currently learning <b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     &#9673; 📫 Mail: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=prabeshrajpant@gmail.com">prabeshrajpant@gmail.com</a> 
 </div>
 
